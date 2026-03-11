@@ -30,4 +30,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ---
 ## Autora
 
-**Anna Beatriz Nascimento**
+**Anna Beatriz Nascimento Reis**
